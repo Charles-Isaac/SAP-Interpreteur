@@ -1,0 +1,10 @@
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\bin\Debug\SAP Interpreteur.exe.config
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\bin\Debug\SAP Interpreteur.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\bin\Debug\SAP Interpreteur.pdb
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP Interpreteur.csprojResolveAssemblyReference.cache
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP_Interpreteur.Properties.Resources.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP Interpreteur.csproj.GenerateResource.Cache
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP Interpreteur.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP Interpreteur.pdb
+C:\Users\Charles-Isaac\Documents\Visual Studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP_Interpreteur.frmInterpreteur.resources
+C:\Users\Charles-Isaac\Documents\Visual Studio 2015\Projects\SAP Interpreteur\obj\Debug\SAP_Interpreteur.frmKeyboardPrompt.resources

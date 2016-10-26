@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAP Interpreteur", "SAP Interpreteur.csproj", "{3FAA7A2A-30D4-4B81-93EB-2CFBB0021610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FAA7A2A-30D4-4B81-93EB-2CFBB0021610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAA7A2A-30D4-4B81-93EB-2CFBB0021610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAA7A2A-30D4-4B81-93EB-2CFBB0021610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAA7A2A-30D4-4B81-93EB-2CFBB0021610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = e6898068-e24e-4adc-9d1a-c8a57241a58d
+	EndGlobalSection
+EndGlobal
